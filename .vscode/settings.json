@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "files.autoSaveDelay": 1000,
+    "files.autoSave": "afterDelay"
+}
